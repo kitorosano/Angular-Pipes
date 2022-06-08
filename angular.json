@@ -106,5 +106,7 @@
       }
     }
   },
-  "defaultProject": "pipesApp"
+  "cli": {
+    "analytics": false
+  }
 }
